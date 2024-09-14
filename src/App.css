@@ -1,0 +1,78 @@
+.logo {
+    width: 200px;
+}
+
+.border-nav {
+    border-bottom: 1px solid #ccc;
+
+
+}
+
+.avatar {
+    width: 60px;
+}
+
+.nav-link {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: black;
+    text-transform: uppercase;
+}
+
+.perfil-kfc,
+.texto-1 {
+    color: #b1b1b1;
+}
+
+.btn-danger {
+    background-color: rgba(228, 0, 43, 1);
+    border-radius: 20px;
+    width: 80%;
+    height: 40px;
+}
+
+.btn-secondary {
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 20px;
+    width: 80%;
+    border: none;
+    height: 40px;
+}
+
+
+.btn-secondary:hover {
+    background-color: transparent !important;
+}
+
+.btn-danger:hover {
+    background-color: rgba(228, 0, 43, 1) !important;
+}
+
+.gps {
+    font-size: 20px
+}
+
+.gps-container {
+
+    height: 50px;
+    background-color: rgba(228, 0, 43, 1) !important;
+    border-radius: 5px;
+}
+
+.search {
+    height: 50px;
+}
+
+.direccion,
+.bi-map {
+    color: rgba(228, 0, 43, 1);
+}
+
+.bi-map {
+    margin-right: 5px;
+}
+
+.gps-main {
+    margin-left: 1px;
+}
