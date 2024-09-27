@@ -10,7 +10,7 @@ const Carousel = () => {
         slidesToShow: 1,
         slidesToScroll: 1,
         autoplay: true,
-        autoplaySpeed: 5000,
+        autoplaySpeed: 4000,
 
 
 
@@ -19,13 +19,13 @@ const Carousel = () => {
         <div className="slider-container" style={{ width: '100%', height: '250px', overflow: 'hidden', position: 'relative' }}>
             <Slider {...settings}>
                 <div>
-                    <img src="https://cdn.tictuk.com/7646423017805410/banner_mobile_384fb5f5-52db-ec8c-070c-ada95bccef0d.jpeg" style={{
+                    <img src="https://cdn.tictuk.com/7646423017805410/banner_desktop_384fb5f5-52db-ec8c-070c-ada95bccef0d.jpeg" style={{
                         width: '100%',
                         height: '100%',
                         objectFit: 'cover',
                         objectPosition: 'bottom',
-                        top: '35%',
-                        transform: 'translateY(-35%)',
+                        top: '0%',
+                        transform: 'translateY(0%)',
 
 
                     }} />
@@ -36,8 +36,8 @@ const Carousel = () => {
                         height: '100%',
                         objectFit: 'cover',
                         objectPosition: 'bottom',
-                        top: '15%',
-                        transform: 'translateY(-15%)',
+                        top: '0%',
+                        transform: 'translateY(0%)',
 
 
                     }} />
@@ -48,8 +48,8 @@ const Carousel = () => {
                         height: '100%',
                         objectFit: 'cover',
                         objectPosition: 'bottom',
-                        top: '15%',
-                        transform: 'translateY(-15%)',
+                        top: '0%',
+                        transform: 'translateY(0%)',
 
 
                     }} />
@@ -60,8 +60,8 @@ const Carousel = () => {
                         height: '100%',
                         objectFit: 'cover',
                         objectPosition: 'bottom',
-                        top: '15%',
-                        transform: 'translateY(-15%)',
+                        top: '0%',
+                        transform: 'translateY(0%)',
 
 
                     }} />
@@ -72,8 +72,8 @@ const Carousel = () => {
                         height: '100%',
                         objectFit: 'cover',
                         objectPosition: 'bottom',
-                        top: '15%',
-                        transform: 'translateY(-15%)',
+                        top: '0%',
+                        transform: 'translateY(0%)',
 
 
                     }} />

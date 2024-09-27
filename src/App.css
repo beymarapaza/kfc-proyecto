@@ -76,3 +76,21 @@
 .gps-main {
     margin-left: 1px;
 }
+
+.carrito {
+    top: 380px;
+    left: 100px;
+    width: 30%;
+}
+
+.card-img-top {
+    width: 70%;
+
+}
+
+.card-container .card {
+    width: 300px;
+    height: 350px;
+}
+
+.
