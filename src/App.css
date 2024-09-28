@@ -79,7 +79,7 @@
 
 .carrito {
     top: 380px;
-    left: 100px;
+    left: 90px;
     width: 30%;
 }
 
@@ -106,4 +106,7 @@
     height: 350px;
 }
 
-.
+.precio {
+    top: 300px;
+    left: 135px;
+}

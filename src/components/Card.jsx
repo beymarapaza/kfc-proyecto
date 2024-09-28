@@ -8,7 +8,7 @@ const Card = ({ imagen = "PON IMAGEN", precio, nombre }) => {
                     <img src={imagen} alt="logo" className="card-img-top " />
                     <h2 className="card-title mt-2">{nombre}</h2>
 
-                    <p className="">{precio}</p>
+                    <p className="position-absolute precio">{precio}</p>
                 </div>
             </div>
             <div className="row justify-content-center position-absolute carrito"  >
